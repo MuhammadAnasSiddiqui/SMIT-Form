@@ -1,0 +1,74 @@
+.Parent{
+    display: flex
+}
+
+.Roll label input {
+    width: 78%;
+    padding: 10px;
+    
+}
+input{
+    width:80%;
+    padding: 10px;
+}
+select{
+    width:90%;
+    padding: 10px;
+}
+.sbt a input{
+    background-color: blue;
+    color: white
+}
+.Sb a input{
+    width: 82%
+}
+.sub input{
+    background-color: blue;
+    color: white
+}
+.b1 select{
+    width: 60%
+}
+.b2 input{
+    width: 105%
+}
+.b3{
+    width: 23%
+}
+.b4{
+    width: 130%
+}
+.b5{
+    width: 160%
+}
+.b6{
+    width: 130%
+}
+.b7{
+    width: 160%
+}
+.b8{
+    width: 190%
+}
+.b9{
+    width: 225%;
+    padding: 2px
+}
+.b10{
+    width: 46%
+}
+.b11{
+    width: 43%
+}
+.b12{
+    width: 43%
+}
+.b13{
+    width: 160%
+}
+.b14 button{
+    background-color: rgb(87, 87, 241);
+    color: white;
+    width: 40%;
+    padding: 10px
+}
